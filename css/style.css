@@ -1,0 +1,43 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+.header {
+    padding-bottom: 5px;
+    border-bottom: 1px solid lightgray;
+    margin: 5px 0 15px 0;
+    font-family: serif;   
+}
+
+.timesrow {
+    padding-right: 15px;
+    border-right: 1px solid lightgray;
+}
+
+.storypic {
+    width: 100%;
+    box-shadow: 5px 5px 5px lightgray;
+}
+
+.headline {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 10px;
+    font-size: 1.4em;
+}
+
+.byline {
+    font-size: 0.8em;
+    color: gray;    
+}
+
+.storybody {
+    font-size: 0.9em;
+}
+
+.dateline {
+    font-size: 0.7em;
+    color: gray;
+    padding-bottom: 10px;
+    border-bottom: 1px solid lightgray;
+    margin-bottom: 10px;
+}
